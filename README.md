@@ -6,7 +6,7 @@
 
 Projeto construído no envento Next Level Week da Rocketseat.
 
-[ 🔗 Clique aqui para acessar:](https:)
+[ 🔗 Clique aqui para acessar:](https://arnobioaires.github.io/esport/)
 
 ## ⚒️ Tecnologias
 
