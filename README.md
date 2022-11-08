@@ -17,7 +17,7 @@ Projeto construído no envento Next Level Week da Rocketseat.
 
 ## Contato
 
-arnobioaresgmail.com
+arnobioares@gmail.com
 
 
 
